@@ -1,7 +1,7 @@
 # US-Birth-Report
 
 - Project Title: US Birth Report (2016 - 2021)
-- Data Visualization Tool: Tableau
+- Data Visualization Tool: Tableau & Excel (Power Query)
 - Datasets Source: [Quantum Analytics](https://quantumanalyticsco.org/)
 
 This dataset provides birth rates and related data across the 50 states and DC from 2016 to 2021. The data was sourced from the Centers for Disease Control and Prevention (CDC) and includes detailed information such as number of births, gender, birth weight, state, and year of the delivery. 
